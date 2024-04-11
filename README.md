@@ -5,7 +5,7 @@
 <summary>About Me</summary>
 <span>
   <a href="whalswo412@gmail.com">
-    <img src="https://img.shields.io/badge/Instagram-EA4335?style=plastic&logo=Gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=black"/>
   </a>
 </span>
 </summary>
