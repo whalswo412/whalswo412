@@ -3,6 +3,10 @@
 ![whalswo412's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalswo412&theme=flag-india&icons=true)
 <details>
 <summary>About Me</summary>
-123
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 </summary>
 
