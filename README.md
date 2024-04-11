@@ -4,8 +4,8 @@
 <details>
 <summary>About Me</summary>
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=Instagram&logoColor=white"/>
+  <a href="whalswo412@gmail.com">
+    <img src="https://icons8.kr/icon/P7UIlhbpWzZm/gmail-EA4335?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 </summary>
