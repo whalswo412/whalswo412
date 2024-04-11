@@ -3,5 +3,6 @@
 <summary>About Me</summary>
 123
 </summary>
+</details>
 ![whalswo412's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalswo412&theme=flag-india&icons=true)
 
