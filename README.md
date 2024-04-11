@@ -11,5 +11,5 @@
 
 <h2 align="center"> 📬 contact me 📬</h2>
 
-<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whalswo412@gmail.com"/></a></p>
+<p align="center"><a href="https://minjae02.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://minjae02.tistory.com/tag"/></a>  <a href="mailto:whalswo412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whalswo412@gmail.com"/></a></p>
 
