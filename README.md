@@ -2,7 +2,7 @@
 
 ![whalswo412's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalswo412&theme=flag-india&icons=true)
 
-<h2 align="center">☾⋆⁺₊⋆💙 all i can do 💙⋆⁺₊⋆☾</h2>
+<h2 align="center">🚀 all i can do 🚀</h2>
  
 <p align="center"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  </p> 
 
