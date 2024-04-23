@@ -60,6 +60,7 @@
 <!--깃허브 README에서 stat 표시하기-->
 
 <div align="center">
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)&nbsp
 </div>
 
