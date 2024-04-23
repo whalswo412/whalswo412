@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <!--<img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />-->
+  <img src="https://new.express.adobe.com/id/urn:aaid:sc:AP:b0f1fd36-5ba0-482b-b3b0-4044aa780ccc?invite=true&promoid=Z2G1FQKR&mv=other" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
