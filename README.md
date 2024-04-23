@@ -50,9 +50,8 @@
   <a href="https://minjae02.tistory.com/">
     <img src="https://img.shields.io/badge/Velog-FF5500?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:whalswo412@gmail.com">
-    <img
-      src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="mailto:whalswo412@gmail.com/">
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
 
