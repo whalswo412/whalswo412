@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://github.com/whalwo412/convoychat">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=radical)
   </a>
 </div>
 
