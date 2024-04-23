@@ -61,7 +61,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=radical)
   
 </div>
 
