@@ -58,7 +58,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://minjae02.tistory.com/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=tistory&logoColor=orange" />&nbsp
   </a>
   <a href="mailto:whalswo412@gmail.com">
     <img
