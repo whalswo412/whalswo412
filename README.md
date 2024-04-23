@@ -1,6 +1,6 @@
 <div align="center">
   <!--<img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />-->
-  ![제목 없음](https://github.com/whalswo412/whalswo412/assets/85067234/0607cb7b-98e5-432c-91df-b84fd95ed14c)
+  <img src="https://github.com/whalswo412/whalswo412/assets/85067234/0607cb7b-98e5-432c-91df-b84fd95ed14c" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
