@@ -60,8 +60,6 @@
 <!--깃허브 README에서 stat 표시하기-->
 
 <div align="center">
-  <a href="https://github.com/whalwo412/convoychat">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=radical)
-  </a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=tokyonight)
 </div>
 
