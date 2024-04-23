@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=298A08&text=Welcom!&fontColor=FFFFFF&desc=Minjae%20GitHub%20Profile&descAlign=62&descSize=20&reversal=false&fontAlignY=50&fontAlign=50)
-
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minjae%20Github%20Profile&fontAlign=50&fontAlignY=44
 ![whalswo412's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalswo412&theme=flag-india&icons=true)
 
 <h2 align="center">🚀 all i can do 🚀</h2>
