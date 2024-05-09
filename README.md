@@ -41,7 +41,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=F05032" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />&nbsp
   
 </div>
