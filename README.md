@@ -28,7 +28,16 @@
   <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp
   <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp
   <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp
+</div>&nbsp
+&nbsp
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 Development Tools 🛠</h3>
+<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
+  <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px;" />&nbsp
+  <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=F05032" style="margin: 0 10px;" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin: 0 10px;" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" style="margin: 0 10px;" />&nbsp
 </div>
+
 <br>
 <br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">📚 Learning Journey 📚</h3>
@@ -63,13 +72,6 @@
 </div>
 <br>
 <br>
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 Development Tools 🛠</h3>
-<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
-  <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=F05032" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" style="margin: 0 10px;" />&nbsp
-</div>
 
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">📬 Let's Connect 📬</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px;">
