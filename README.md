@@ -1,3 +1,8 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&family=Spoqa+Han+Sans+Neo:wght@300;400;700&display=swap');
+</style>
+
+
 <div align="center">
   <img width="1403" alt="Profile Banner" src="https://github.com/whalswo412/whalswo412/assets/85067234/816bbedb-73cf-441f-9c47-84f6cd0bc043" style="border-radius: 20px; box-shadow: 0 8px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease; filter: brightness(95%); margin-bottom: 40px;">
 </div>
