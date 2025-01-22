@@ -5,7 +5,10 @@
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
   🌱 배움의 열정, 성장의 즐거움 | 새로운 기술에 목마른 예비 개발자 🌱
 </h1>
-
+<br>
+<br>
+<br>
+<br>
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
   <strong style="display: block; margin-bottom: 10px; color: #34495e;">
     기술의 경계를 넘어<br> 새로운 가능성을 탐험하는 개발자입니다.
@@ -32,6 +35,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin: 0 10px;" />&nbsp
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" style="margin: 0 10px;" />&nbsp
 </div>
+<br>
 <br>
 <br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🏆 수상 경력 🏆</h3> <div align="center" style="background: linear-gradient(to right, #f1f2f6, #dfe4ea); padding: 25px; border-radius: 15px; max-width: 800px; margin: 20px auto; box-shadow: 0 5px 15px rgba(0,0,0,0.06);"> <div style="margin-bottom: 20px;"> <strong style="color: #3742fa; font-size: 18px;">2024.11.28 ~ 2024.12.06</strong> <p style="color: #2f3542; margin-top: 10px;"><strong>대전정보문화산업진흥원 | 2024년 물류데이터 활용 신규 서비스 아이디어 공모전</strong></p> </div> </div>
@@ -74,21 +78,48 @@
 </div>
 
 </div>
-
+<br>
 <br>
 <br>
 <h2 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h2>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
-  <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
-    <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 및 모니터링 시스템</h3>
-    <p style="color: #2f3542; margin-bottom: 10px;">GIS 기술 활용, 도시 보행 환경 분석 및 모니터링 대쉬보드 개발</p>
-    <p style="color: #57606f; font-size: 14px;">기술: Postgresql, Flutter, React, Node.js</p>
-  </div>
-  <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
-    <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 데이터 모니터링 대시보드</h3>
-    <p style="color: #2f3542; margin-bottom: 10px;">Spring프레임워크를 시용한 오픈마켓 프로젝트 개발</p>
-    <p style="color: #57606f; font-size: 14px;">기술: Java, Spring, React, Mysql</p>
-  </div>
+  <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
+  <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 GIS 기반 도시 보행 환경 분석 시스템</h3>
+  <p style="color: #2f3542; margin-bottom: 10px;">
+    <strong>프로젝트 목표:</strong> 도시 보행 환경의 안전성과 접근성을 데이터 기반으로 평가
+  </p>
+  <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
+    <strong>주요 기능:</strong>
+    • 지리정보시스템(GIS)을 활용한 보행로 분석
+    • 실시간 보행 환경 모니터링 대시보드
+    • 장애물, 혼잡도, 날씨등의 데이터를 수집 및 지수화 로직 구현
+  </p>
+    <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
+    <strong>담당 업무:</strong>
+    • Flutter를 이용한 사용자 참여형 데이터 수집용 앱 개발
+    • 데이터베이스 구축 및 데이터 활용 지수화 로직 구현
+    • 날짜별, 구역별 점수 데이터 등 API 구현
+  </p>
+  <p style="color: #57606f; font-size: 14px;">
+    <strong>기술 스택:</strong> Postgresql, Flutter, React, Node.js
+  </p>
+</div>
+
+<div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
+  <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 오픈마켓 데이터 모니터링 대시보드</h3>
+  <p style="color: #2f3542; margin-bottom: 10px;">
+    <strong>프로젝트 목표:</strong> 오픈마켓 플랫폼의 실시간 트렌드 및 상품 분석
+  </p>
+  <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
+    <strong>주요 기능:</strong>
+    • 상품 카테고리별 실시간 가격 동향
+    • 데이터 기반 인사이트 대시보드
+  </p>
+  <p style="color: #57606f; font-size: 14px;">
+    <strong>기술 스택:</strong> Java, Spring, React, MySQL
+  </p>
+</div>
+
 </div>
 <br>
 <br>
