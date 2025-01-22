@@ -1,16 +1,16 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; margin-bottom: 40px;">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px; border: 4px solid #3742fa;">
+  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820363.png" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px; border: 4px solid #3742fa;">
   
   <div style="text-align: left; background-color: #f6f8f9; padding: 25px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h2 style="color: #3742fa; margin-bottom: 15px;">민재 | Backend Developer</h2>
     <p style="color: #2c3e50; margin-bottom: 10px;">
-      <strong>📍 Location:</strong> 대전, 대한민국
+      <strong>📍 Location:</strong> 안산, 대한민국
     </p>
     <p style="color: #2c3e50; margin-bottom: 10px;">
       <strong>📧 Email:</strong> whalswo412@gmail.com
     </p>
     <p style="color: #2c3e50; margin-bottom: 10px;">
-      <strong>🎓 Education:</strong> 컴퓨터 공학 관련 전공
+      <strong>🎓 Education:</strong> 기계 공학 관련 전공
     </p>
     <div style="display: flex; margin-top: 15px;">
       <a href="https://github.com/whalswo412" target="_blank" style="margin-right: 15px;">
