@@ -24,22 +24,22 @@
 </div>
 
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
-  🌱 배움의 열정, 성장의 즐거움 | 새로운 기술에 목마른 예비 개발자 🌱
+  🌱 현실의 문제를 기술로 풀어내는 혁신적인 개발자 | IT로 세상을 바꾸는 작은 변화 🌱
 </h1>
 <br>
 <br>
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
   <strong style="display: block; margin-bottom: 10px; color: #34495e;">
-    기술의 경계를 넘어<br> 새로운 가능성을 탐험하는 개발자입니다.
+    혁신은 호기심에서 시작됩니다.<br> 새로운 기술과 트렌드에 대한 열정으로 기술 혁신의 최전선에 서서, 작은 코드가 세상을 변화시킬 수 있다는 믿음을 가지고 있습니다.
   </strong>
   <strong style="display: block; margin-bottom: 10px; color: #2980b9;">
-    변화를 두려워하지 않고,<br> 끊임없이 학습하며 도전하는 것을 즐깁니다.
+    사회의 복잡한 문제들을 창의적이고<br> 효율적인 솔루션으로 전환하는 것이 저의 근본적인 목표입니다.
   </strong>
   <strong style="display: block; margin-bottom: 10px; color: #27ae60;">
     복잡한 문제를 창의적이고 효율적인<br> 솔루션으로 전환하는 것이 제 최대의 열정입니다.
   </strong>
   <strong style="display: block; color: #8e44ad;">
-    새로운 기술과 트렌드에 대한 호기심과<br> 적응력으로 기술 혁신의 최전선에 서 있습니다.
+    기술의 경계를 넘어 새로운 가능성을 탐험하며, <br>변화를 두려워하지 않고 끊임없이 학습하고 도전합니다.
   </strong>
 </p>
 
