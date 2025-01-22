@@ -12,6 +12,9 @@
     <p style="color: #2c3e50; margin-bottom: 10px;">
       <strong>🎓 Education:</strong> 기계 공학 관련 전공
     </p>
+    <p style="color: #2c3e50; margin-bottom: 10px;">
+      <strong>💻 Career Focus:</strong> 풀스택 웹 개발자
+    </p>
     <div style="display: flex; margin-top: 15px;">
       <a href="https://github.com/whalswo412" target="_blank" style="margin-right: 15px;">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
