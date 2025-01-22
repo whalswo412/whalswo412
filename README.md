@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
-  🚀 배움의 열정, 성장의 즐거움 | 새로운 기술에 목마른 예비 개발자 🌱
+  🌱 배움의 열정, 성장의 즐거움 | 새로운 기술에 목마른 예비 개발자 🌱
 </h1>
 
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
@@ -22,13 +22,7 @@
 </p>
 <br>
 <br>
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">✨ Tech Stack ✨</h3>
-<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
-  <img src="https://img.shields.io/badge/JAVA-2C2C32.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp
-  <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp
-</div>&nbsp
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">✨ Tech Stack ✨</h3> <div align="center" style="margin-top: 30px; margin-bottom: 50px;"> <img src="https://img.shields.io/badge/JAVA-2C2C32.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" style="margin: 0 10px;" />&nbsp </div>
 &nbsp
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 Development Tools 🛠</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px;">
@@ -37,7 +31,6 @@
   <img src="https://img.shields.io/badge/IntelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin: 0 10px;" />&nbsp
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" style="margin: 0 10px;" />&nbsp
 </div>
-
 <br>
 <br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">📚 Learning Journey 📚</h3>
@@ -57,12 +50,12 @@
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
-    <h4 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 및 모니터링 시스템</h4>
+    <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 및 모니터링 시스템</h3>
     <p style="color: #2f3542; margin-bottom: 10px;">GIS 기술 활용, 도시 보행 환경 분석 및 모니터링 대쉬보드 개발</p>
     <p style="color: #57606f; font-size: 14px;">기술: Postgresql, Flutter, React, Node.js</p>
   </div>
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
-    <h4 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 데이터 모니터링 대시보드</h4>
+    <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 데이터 모니터링 대시보드</h3>
     <p style="color: #2f3542; margin-bottom: 10px;">Spring프레임워크를 시용한 오픈마켓 프로젝트 개발</p>
     <p style="color: #57606f; font-size: 14px;">기술: Java, Spring, React, Mysql</p>
   </div>
