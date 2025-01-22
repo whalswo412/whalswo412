@@ -149,6 +149,12 @@
     <strong>주요 기능:</strong>
     • 상품 카테고리별 실시간 가격 동향
     • 데이터 기반 인사이트 대시보드
+  </p><br><br>
+  <p style="color: #57606f; font-size: 14px; margin-bottom: 15px; line-height: 1.8;">
+    <strong>담당 업무:</strong><br><br>
+    • 데이터베이스 구축 및 api구현<br><br>
+    • 관리자 페이지 구혀<br><br>
+    • 메인페이지, 상품 상세페이지 프론트 화면 구현
   </p>
   <p style="color: #57606f; font-size: 14px;">
     <br>
