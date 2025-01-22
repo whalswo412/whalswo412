@@ -144,8 +144,13 @@
     • 데이터 기반 인사이트 대시보드
   </p>
   <p style="color: #57606f; font-size: 14px;">
-    <strong>기술 스택:</strong> Java, Spring, React, MySQL
+    <strong>기술 스택:</strong>
   </p>
+  <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" />
+<img src="https://img.shields.io/badge/flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+
 </div>
 
 </div>
