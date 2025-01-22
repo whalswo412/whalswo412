@@ -1,5 +1,26 @@
-<div align="center">
-  <img width="1403" alt="Profile Banner" src="https://github.com/whalswo412/whalswo412/assets/85067234/816bbedb-73cf-441f-9c47-84f6cd0bc043" style="border-radius: 20px; box-shadow: 0 8px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease; filter: brightness(95%); margin-bottom: 40px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; margin-bottom: 40px;">
+  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px; border: 4px solid #3742fa;">
+  
+  <div style="text-align: left; background-color: #f6f8f9; padding: 25px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h2 style="color: #3742fa; margin-bottom: 15px;">민재 | Backend Developer</h2>
+    <p style="color: #2c3e50; margin-bottom: 10px;">
+      <strong>📍 Location:</strong> 대전, 대한민국
+    </p>
+    <p style="color: #2c3e50; margin-bottom: 10px;">
+      <strong>📧 Email:</strong> whalswo412@gmail.com
+    </p>
+    <p style="color: #2c3e50; margin-bottom: 10px;">
+      <strong>🎓 Education:</strong> 컴퓨터 공학 관련 전공
+    </p>
+    <div style="display: flex; margin-top: 15px;">
+      <a href="https://github.com/whalswo412" target="_blank" style="margin-right: 15px;">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="https://minjae02.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-FF5500?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog">
+      </a>
+    </div>
+  </div>
 </div>
 
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
