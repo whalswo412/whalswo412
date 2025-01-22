@@ -153,7 +153,7 @@
   <p style="color: #57606f; font-size: 14px; margin-bottom: 15px; line-height: 1.8;">
     <strong>담당 업무:</strong><br><br>
     • 데이터베이스 구축 및 api구현<br><br>
-    • 관리자 페이지 구혀<br><br>
+    • 관리자 페이지 구현<br><br>
     • 메인페이지, 상품 상세페이지 프론트 화면 구현
   </p>
   <p style="color: #57606f; font-size: 14px;">
