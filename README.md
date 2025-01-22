@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/11820/11820363.png" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px;">
   
   <div style="text-align: left; background-color: #f6f8f9; padding: 25px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h2 style="color: #3742fa; margin-bottom: 15px;">민재 | Backend Developer</h2>
+    <h2 margin-bottom: 15px;">조민재</h2>
     <p style="color: #2c3e50; margin-bottom: 10px;">
       <strong>📍 Location:</strong> 안산, 대한민국
     </p>
