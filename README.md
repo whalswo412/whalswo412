@@ -33,6 +33,15 @@
 </div>
 <br>
 <br>
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🏆 수상 경력 🏆</h3>
+<div align="center" style="background: linear-gradient(to right, #f1f2f6, #dfe4ea); padding: 25px; border-radius: 15px; max-width: 800px; margin: 20px auto; box-shadow: 0 5px 15px rgba(0,0,0,0.06);">
+  <div style="margin-bottom: 20px;">
+    <strong style="color: #3742fa; font-size: 18px;"></strong>
+    <p style="color: #2f3542; margin-top: 10px;">대전정보문화산업진흥원 | 2024년 물류데이터 활용 신규 서비스 아이디어 공모전</p>
+  </div>
+</div>
+<br>
+<br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">📚 Learning Journey 📚</h3>
 <div align="center" style="background: linear-gradient(to right, #f1f2f6, #dfe4ea); padding: 25px; border-radius: 15px; max-width: 800px; margin: 20px auto; box-shadow: 0 5px 15px rgba(0,0,0,0.06);">
   <div style="margin-bottom: 20px;">
