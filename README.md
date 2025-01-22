@@ -58,14 +58,12 @@
   <div style="margin-bottom: 20px;">
     <strong style="color: #3742fa; font-size: 18px;">2024.11.22 ~ 2025.01.23</strong>
     <p style="color: #2f3542; margin-top: 10px;">GIS를 활용한 위치정보기반(LBS) 웹&앱 개발 과정</p>
-    <p style="color: #57606f; font-size: 14px;">지리정보시스템(GIS) 기술을 활용하여 혁신적인 위치 기반 서비스 솔루션 개발 중</p>
   </div>
   <br>
 <br>
   <div>
     <strong style="color: #3742fa; font-size: 18px;">2024.04.02 ~ 2024.08.27</strong>
     <p style="color: #2f3542; margin-top: 10px;">자바 네이티브 웹&앱 개발 심화 과정</p>
-    <p style="color: #57606f; font-size: 14px;">Java 기반 풀스택 개발 역량 강화 및 최신 웹 개발 트렌드 학습</p>
   </div>
 </div>
 <br>
@@ -73,14 +71,14 @@
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
-    <h4 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 시스템</h4>
-    <p style="color: #2f3542; margin-bottom: 10px;">GIS 기술 활용, 도시 보행 환경 분석 및 개선 솔루션 개발</p>
-    <p style="color: #57606f; font-size: 14px;">기술: Java, Spring, React, Node.js</p>
+    <h4 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 및 모니터링 시스템</h4>
+    <p style="color: #2f3542; margin-bottom: 10px;">GIS 기술 활용, 도시 보행 환경 분석 및 모니터링 대쉬보드 개발</p>
+    <p style="color: #57606f; font-size: 14px;">기술: Postgresql, Flutter, React, Node.js</p>
   </div>
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
     <h4 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 데이터 모니터링 대시보드</h4>
-    <p style="color: #2f3542; margin-bottom: 10px;">실시간 데이터 수집 및 시각화 웹 애플리케이션 구축</p>
-    <p style="color: #57606f; font-size: 14px;">기술: React, Node.js, WebSocket</p>
+    <p style="color: #2f3542; margin-bottom: 10px;">Spring프레임워크를 시용한 오픈마켓 프로젝트 개발</p>
+    <p style="color: #57606f; font-size: 14px;">기술: Java, Spring, React, Mysql</p>
   </div>
 </div>
 <br>
