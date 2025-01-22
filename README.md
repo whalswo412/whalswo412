@@ -141,9 +141,9 @@
 
 
 <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
-  <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 오픈마켓 데이터 모니터링 대시보드</h3>
+  <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 오픈마켓 데이터 모니터링 대시보드</h3>
   <p style="color: #2f3542; margin-bottom: 10px;">
-    <strong>프로젝트 목표:</strong> 오픈마켓 플랫폼의 실시간 트렌드 및 상품 분석
+    <strong>프로젝트 목표:</strong> 오픈마켓 플랫폼 개발 및 트렌드 및 상품 분석
   </p>
   <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
     <strong>주요 기능:</strong>
