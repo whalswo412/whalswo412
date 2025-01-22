@@ -1,22 +1,9 @@
-<head>  
-  <meta charset="UTF-8">  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <title>Introduction Page</title>  
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&family=Spoqa+Han+Sans+Neo:wght@300;400;700&display=swap" rel="stylesheet">  
-  <style>  
-    body {  
-      font-family: 'Noto Sans KR', 'Spoqa Han Sans Neo', sans-serif;  
-    }  
-  </style>  
-</head>  
-
-
 <div align="center">
   <img width="1403" alt="Profile Banner" src="https://github.com/whalswo412/whalswo412/assets/85067234/816bbedb-73cf-441f-9c47-84f6cd0bc043" style="border-radius: 20px; box-shadow: 0 8px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease; filter: brightness(95%); margin-bottom: 40px;">
 </div>
 
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
-  🌟 혁신적인 개발자 | 아이디어를 디지털 혁신으로 🚀
+  🚀 배움의 열정, 성장의 즐거움 | 새로운 기술에 목마른 예비 개발자 🌱
 </h1>
 
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
@@ -59,7 +46,6 @@
     <strong style="color: #3742fa; font-size: 18px;">2024.11.22 ~ 2025.01.23</strong>
     <p style="color: #2f3542; margin-top: 10px;">GIS를 활용한 위치정보기반(LBS) 웹&앱 개발 과정</p>
   </div>
-  <br>
 <br>
   <div>
     <strong style="color: #3742fa; font-size: 18px;">2024.04.02 ~ 2024.08.27</strong>
@@ -92,8 +78,4 @@
   <a href="mailto:whalswo412@gmail.com/">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 10px;" />&nbsp
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalswo412&layout=compact&theme=panda" alt="Top Languages"/>
 </div>
