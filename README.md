@@ -24,7 +24,7 @@
 </div>
 
 <h1 align="center" style="background: linear-gradient(45deg, #3494E6, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin-bottom: 40px;">
-  🌱 현실의 문제를 기술로 풀어내는 개발자 | IT로 세상을 바꾸는 작은 변화 🌱
+  🌱 현실의 문제를 기술로 풀어내는 개발자  |  IT로 세상을 바꾸는 작은 변화 🌱
 </h1>
 <br>
 <br>
