@@ -7,8 +7,6 @@
 </h1>
 <br>
 <br>
-<br>
-<br>
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
   <strong style="display: block; margin-bottom: 10px; color: #34495e;">
     기술의 경계를 넘어<br> 새로운 가능성을 탐험하는 개발자입니다.
@@ -28,6 +26,8 @@
 <br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">✨ 기술 스택 ✨</h3> <div align="center" style="margin-top: 30px; margin-bottom: 50px;"> <img src="https://img.shields.io/badge/JAVA-2C2C32.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 0 10px;" />&nbsp <br><img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/qgis-2C2C32.svg?style=for-the-badge&logo=qgis&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/jsp-2C2C32.svg?style=for-the-badge&logo=java&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mybatis-2C2C32.svg?style=for-the-badge&logo=apache&logoColor=red" style="margin: 0 10px;" />&nbsp </div>
 &nbsp
+<br>
+<br>
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 개발 도구 🛠</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px;">
   <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px;" />&nbsp
@@ -82,6 +82,7 @@
 <br>
 <br>
 <h2 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h2>
+<br>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
   <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 GIS 기반 도시 보행 환경 분석 시스템</h3>
@@ -104,6 +105,8 @@
     <strong>기술 스택:</strong> Postgresql, Flutter, React, Node.js
   </p>
 </div>
+<br>
+<br>
 
 
 <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
