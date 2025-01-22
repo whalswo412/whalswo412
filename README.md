@@ -22,9 +22,9 @@
 </p>
 <br>
 <br>
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">✨ Tech Stack ✨</h3> <div align="center" style="margin-top: 30px; margin-bottom: 50px;"> <img src="https://img.shields.io/badge/JAVA-2C2C32.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/qgis-2C2C32.svg?style=for-the-badge&logo=qgis&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/jsp-2C2C32.svg?style=for-the-badge&logo=java&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mybatis-2C2C32.svg?style=for-the-badge&logo=apache&logoColor=red" style="margin: 0 10px;" />&nbsp </div>
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">✨ 기술 스택 ✨</h3> <div align="center" style="margin-top: 30px; margin-bottom: 50px;"> <img src="https://img.shields.io/badge/JAVA-2C2C32.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 0 10px;" />&nbsp <br><img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/qgis-2C2C32.svg?style=for-the-badge&logo=qgis&logoColor=green" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/jsp-2C2C32.svg?style=for-the-badge&logo=java&logoColor=white" style="margin: 0 10px;" />&nbsp <img src="https://img.shields.io/badge/mybatis-2C2C32.svg?style=for-the-badge&logo=apache&logoColor=red" style="margin: 0 10px;" />&nbsp </div>
 &nbsp
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 Development Tools 🛠</h3>
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🛠 개발 도구 🛠</h3>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px;">
   <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px;" />&nbsp
   <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=F05032" style="margin: 0 10px;" />&nbsp
@@ -36,18 +36,29 @@
 <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">🏆 수상 경력 🏆</h3> <div align="center" style="background: linear-gradient(to right, #f1f2f6, #dfe4ea); padding: 25px; border-radius: 15px; max-width: 800px; margin: 20px auto; box-shadow: 0 5px 15px rgba(0,0,0,0.06);"> <div style="margin-bottom: 20px;"> <strong style="color: #3742fa; font-size: 18px;">2024.11.28 ~ 2024.12.06</strong> <p style="color: #2f3542; margin-top: 10px;"><strong>대전정보문화산업진흥원 | 2024년 물류데이터 활용 신규 서비스 아이디어 공모전</strong></p> </div> </div>
 <br>
 <br>
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">📚 Learning Journey 📚</h3>
+<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">📚 참여 훈련 📚</h3>
 <div align="center" style="background: linear-gradient(to right, #f1f2f6, #dfe4ea); padding: 25px; border-radius: 15px; max-width: 800px; margin: 20px auto; box-shadow: 0 5px 15px rgba(0,0,0,0.06);">
   <div style="margin-bottom: 20px;">
     <strong style="color: #3742fa; font-size: 18px;">2024.11.22 ~ 2025.01.23</strong>
-    <p style="color: #2f3542; margin-top: 10px;">GIS를 활용한 위치정보기반(LBS) 웹&앱 개발 과정</p>
+    <p style="color: #2f3542; margin-top: 10px;">GIS를 활용한 위치정보기반(LBS) 웹&앱 개발 과정 ㅣ 코드랩 아카데미</p>
   </div>
 <br>
   <div>
     <strong style="color: #3742fa; font-size: 18px;">2024.04.02 ~ 2024.08.27</strong>
-    <p style="color: #2f3542; margin-top: 10px;">자바 네이티브 웹&앱 개발 심화 과정</p>
+    <p style="color: #2f3542; margin-top: 10px;">자바 네이티브 웹&앱 개발 심화 과정 | 이젠 아카데미</p>
   </div>
 </div>
+  <br>
+  <br>
+  <h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #2ecc71; padding-bottom: 10px;">💡 개인 학습 및 성장 이력 💡</h3>
+<div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
+  <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
+    <h4 style="color: #3742fa; margin-bottom: 15px;">온라인 강의 및 자기주도 학습</h4>
+    <p style="color: #2f3542; margin-bottom: 10px;">Udemy, Inflearn 등 온라인 플랫폼을 통한 지속적인 기술 학습</p>
+    <p style="color: #57606f; font-size: 14px;">React, Node.js, Spring 등</p>
+  </div>
+</div>
+
 <br>
 <br>
 <h2 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h2>
