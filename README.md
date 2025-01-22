@@ -47,7 +47,7 @@
 </div>
 <br>
 <br>
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h3>
+<h2 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h2>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
   <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 300px; text-align: left;">
     <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 위치기반 보행로 평가 및 모니터링 시스템</h3>
