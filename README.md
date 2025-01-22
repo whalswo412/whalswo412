@@ -88,18 +88,16 @@
   <p style="color: #2f3542; margin-bottom: 15px;">
     <strong>프로젝트 목표:</strong> 도시 보행 환경의 안전성과 접근성을 데이터 기반으로 평가
   </p>
-  <div style="display: flex; justify-content: space-between;">
   <p style="color: #57606f; font-size: 14px; margin-bottom: 15px; line-height: 1.8;">
-    <strong>주요 기능:</strong><br>
-    • 지리정보시스템(GIS)을 활용한 보행로 분석<br>
-    • 실시간 보행 환경 모니터링 대시보드<br>
+    <strong>주요 기능:</strong><br><br>
+    • 지리정보시스템(GIS)을 활용한 보행로 분석<br><br>
+    • 실시간 보행 환경 모니터링 대시보드<br><br>
     • 장애물, 혼잡도, 날씨등의 데이터를 수집 및 지수화 로직 구현
-  </p>
-  </div>
+  </p><br><br>
   <p style="color: #57606f; font-size: 14px; margin-bottom: 15px; line-height: 1.8;">
-    <strong>담당 업무:</strong><br>
-    • Flutter를 이용한 사용자 참여형 데이터 수집용 앱 개발<br>
-    • 데이터베이스 구축 및 데이터 활용 지수화 로직 구현<br>
+    <strong>담당 업무:</strong><br><br>
+    • Flutter를 이용한 사용자 참여형 데이터 수집용 앱 개발<br><br>
+    • 데이터베이스 구축 및 데이터 활용 지수화 로직 구현<br><br>
     • 날짜별, 구역별 점수 데이터 등 API 구현
   </p>
   <p style="color: #57606f; font-size: 14px;">
