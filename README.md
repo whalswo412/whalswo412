@@ -83,27 +83,7 @@
 <br>
 <h2 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🚧 주요 프로젝트 🚧</h2>
 <div align="center" style="margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center; gap: 20px;">
-  <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
-  <h3 style="color: #3742fa; margin-bottom: 15px;">🌍 GIS 기반 도시 보행 환경 분석 시스템</h3>
-  <p style="color: #2f3542; margin-bottom: 10px;">
-    <strong>프로젝트 목표:</strong> 도시 보행 환경의 안전성과 접근성을 데이터 기반으로 평가
-  </p>
-  <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
-    <strong>주요 기능:</strong>
-    • 지리정보시스템(GIS)을 활용한 보행로 분석
-    • 실시간 보행 환경 모니터링 대시보드
-    • 장애물, 혼잡도, 날씨등의 데이터를 수집 및 지수화 로직 구현
-  </p>
-    <p style="color: #57606f; font-size: 14px; margin-bottom: 10px;">
-    <strong>담당 업무:</strong>
-    • Flutter를 이용한 사용자 참여형 데이터 수집용 앱 개발
-    • 데이터베이스 구축 및 데이터 활용 지수화 로직 구현
-    • 날짜별, 구역별 점수 데이터 등 API 구현
-  </p>
-  <p style="color: #57606f; font-size: 14px;">
-    <strong>기술 스택:</strong> Postgresql, Flutter, React, Node.js
-  </p>
-</div>
+ <div style="background-color: #f1f2f6; padding: 25px; border-radius: 15px; width: 380px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"> <h3 style="color: #3742fa; margin-bottom: 20px; border-bottom: 2px solid #3742fa; padding-bottom: 10px;"> 🌍 GIS 기반 도시 보행 환경 분석 시스템 </h3> <p style="color: #2f3542; margin-bottom: 15px;"> <strong>프로젝트 목표:</strong><br> 도시 보행 환경의 안전성과 접근성을 데이터 기반으로 과학적으로 평가 </p> <p style="color: #57606f; font-size: 14px; margin-bottom: 15px;"> <strong>주요 기능:</strong><br> - 지리정보시스템(GIS)을 활용한 보행로 분석<br> - 실시간 보행 환경 모니터링 대시보드<br> - 장애물, 혼잡도, 날씨 등의 데이터 수집 및 지수화 </p> <p style="color: #57606f; font-size: 14px; margin-bottom: 15px;"> <strong>담당 업무:</strong><br> - Flutter 기반 사용자 참여형 데이터 수집 앱 개발<br> - 데이터베이스 구축 및 지수화 로직 구현<br> - 날짜/구역별 점수 데이터 API 개발 </p> <p style="color: #57606f; font-size: 14px; background-color: #e6e6fa; padding: 10px; border-radius: 5px;"> <strong>기술 스택:</strong><br> PostgreSQL · Flutter · React · Node.js </p> </div> <div style="background-color: #f1f2f6; padding: 25px; border-radius: 15px; width: 380px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"> <h3 style="color: #3742fa; margin-bottom: 20px; border-bottom: 2px solid #3742fa; padding-bottom: 10px;"> 🤖 실시간 오픈마켓 데이터 모니터링 대시보드 </h3> <p style="color: #2f3542; margin-bottom: 15px;"> <strong>프로젝트 목표:</strong><br> 오픈마켓 플랫폼의 실시간 트렌드와 상품 동향을 과학적으로 분석 </p> <p style="color: #57606f; font-size: 14px; margin-bottom: 15px;"> <strong>주요 기능:</strong><br> - 상품 카테고리별 실시간 가격 동향 분석<br> - 데이터 기반 인사이트 대시보드 구현<br> - 판매 트렌드 시각화 </p> <p style="color: #57606f; font-size: 14px; background-color: #e6e6fa; padding: 10px; border-radius: 5px;"> <strong>기술 스택:</strong><br> Java · Spring · React · MySQL </p> </div>
 
 <div style="background-color: #f1f2f6; padding: 20px; border-radius: 15px; width: 350px; text-align: left;">
   <h3 style="color: #3742fa; margin-bottom: 15px;">🤖 실시간 오픈마켓 데이터 모니터링 대시보드</h3>
