@@ -126,8 +126,13 @@
     • 날짜별, 구역별 점수 데이터 등 API 구현
   </p>
   <p style="color: #57606f; font-size: 14px;">
-    <strong>기술 스택:</strong> Postgresql, Flutter, React, Node.js
+    <strong>기술 스택:</strong>
   </p>
+    <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" />
+<img src="https://img.shields.io/badge/flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+
 </div>
 <br>
 <br>
@@ -146,10 +151,11 @@
   <p style="color: #57606f; font-size: 14px;">
     <strong>기술 스택:</strong>
   </p>
-  <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" />
-<img src="https://img.shields.io/badge/flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=blue" />
+  <img src="https://img.shields.io/badge/java-2C2C32.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-2C2C32.svg?style=for-the-badge&logo=spring&logoColor=green" />
 <img src="https://img.shields.io/badge/react-2C2C32.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/node.js-2C2C32.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+<img src="https://img.shields.io/badge/jpa-2C2C32.svg?style=for-the-badge&logo=hibernate&logoColor=blue" />
+<img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
