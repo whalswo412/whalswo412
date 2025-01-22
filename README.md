@@ -126,6 +126,8 @@
     • 날짜별, 구역별 점수 데이터 등 API 구현
   </p>
   <p style="color: #57606f; font-size: 14px;">
+    <br>
+    <br>
     <strong>기술 스택:</strong>
   </p>
     <img src="https://img.shields.io/badge/postgresql-2C2C32.svg?style=for-the-badge&logo=postgresql&logoColor=blue" />
@@ -149,6 +151,8 @@
     • 데이터 기반 인사이트 대시보드
   </p>
   <p style="color: #57606f; font-size: 14px;">
+    <br>
+    <br>
     <strong>기술 스택:</strong>
   </p>
   <img src="https://img.shields.io/badge/java-2C2C32.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
