@@ -1,6 +1,14 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&family=Spoqa+Han+Sans+Neo:wght@300;400;700&display=swap');
-</style>
+<head>  
+  <meta charset="UTF-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>Introduction Page</title>  
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&family=Spoqa+Han+Sans+Neo:wght@300;400;700&display=swap" rel="stylesheet">  
+  <style>  
+    body {  
+      font-family: 'Noto Sans KR', 'Spoqa Han Sans Neo', sans-serif;  
+    }  
+  </style>  
+</head>  
 
 
 <div align="center">
