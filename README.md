@@ -30,7 +30,7 @@
 <br>
 <p align="center" style="font-size: 17px; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto 50px; background: linear-gradient(to right, #f6f8f9, #e5ebee); padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.08);">
   <strong style="display: block; margin-bottom: 10px; color: #34495e;">
-    혁신은 호기심에서 시작됩니다.<br> 새로운 기술과 트렌드에 대한 열정으로 기술 혁신의 최전선에 서서, 작은 코드가 세상을 변화시킬 수 있다는 믿음을 가지고 있습니다.
+    혁신은 호기심에서 시작됩니다.<br> 새로운 기술과 트렌드에 대한 열정으로 기술 혁신의 최전선에 서서, <br>작은 코드가 세상을 변화시킬 수 있다는 믿음을 가지고 있습니다.
   </strong>
   <strong style="display: block; margin-bottom: 10px; color: #2980b9;">
     사회의 복잡한 문제들을 창의적이고<br> 효율적인 솔루션으로 전환하는 것이 저의 근본적인 목표입니다.
