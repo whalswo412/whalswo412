@@ -5,10 +5,10 @@
 <h1 align="center">🌟 혁신적인 개발자 | 아이디어를 디지털 혁신으로 🚀</h1>
 
 <p align="center" style="font-size: 16px; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  기술의 경계를 넘어 새로운 가능성을 탐험하는 개발자입니다. 
-  변화를 두려워하지 않고, 끊임없이 학습하며 도전하는 것을 즐깁니다. 
-  복잡한 문제를 창의적이고 효율적인 솔루션으로 전환하는 것이 제 최대의 열정입니다. 
-  새로운 기술과 트렌드에 대한 호기심과 적응력으로 기술 혁신의 최전선에 서 있습니다.
+  <strong>기술의 경계를 넘어 새로운 가능성을 탐험하는 개발자입니다.</strong><br> 
+  <strong>변화를 두려워하지 않고, 끊임없이 학습하며 도전하는 것을 즐깁니다.</strong><br> 
+  <strong>복잡한 문제를 창의적이고 효율적인 솔루션으로 전환하는 것이 제 최대의 열정입니다.</strong><br> 
+  <strong>새로운 기술과 트렌드에 대한 호기심과 적응력으로 기술 혁신의 최전선에 서 있습니다.</strong>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
