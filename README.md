@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; margin-bottom: 40px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820363.png" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px; border: 4px solid #3742fa;">
+  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820363.png" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 40px;">
   
   <div style="text-align: left; background-color: #f6f8f9; padding: 25px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h2 style="color: #3742fa; margin-bottom: 15px;">민재 | Backend Developer</h2>
@@ -148,13 +148,3 @@
 </div>
 <br>
 <br>
-
-<h3 align="center" style="margin-top: 50px; color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">📬 Let's Connect 📬</h3>
-<div align="center" style="margin-top: 30px; margin-bottom: 50px;">
-  <a href="https://minjae02.tistory.com/">
-    <img src="https://img.shields.io/badge/Velog-FF5500?style=for-the-badge&logo=tistory&logoColor=white" style="margin: 0 10px;" />&nbsp
-  </a>
-  <a href="mailto:whalswo412@gmail.com/">
-    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 10px;" />&nbsp
-  </a>
-</div>
